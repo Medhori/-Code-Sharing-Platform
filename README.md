@@ -11,3 +11,6 @@ This program requires Java to compile and run, **H2 Database, Spring Data JPA, S
 **Author:** Mo Balić - [mobalic](https://github.com/mobalic)
 
 This program is based on Code Sharing Platfrom project on JetBrains Academy.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mobalic/Code-Sharing-Platform/blob/main/LICENSE) for details.
