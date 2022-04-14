@@ -1,18 +1,21 @@
 # Code Sharing Platform
-There is a lot of collaboration in programming: many projects require sharing your code with other developers. Using open web resources such as Pastebin is not always an option. In this project, you will create your own secure version of a code-sharing platform.
+
+A web application to share real time code with multiple connected users. Created with spring framework, freemarker and h2 database. Project also has front end.
 
 ## Prerequisites
 
-This program requires Java to compile and run.
+This program requires at least Java 11 to compile and run properly.
 
 ## Dependencies
 
-H2 Database, Spring Data JPA, Spring Web and Apache Freemarker.
+- Apache Freemarker
+- H2 Database
+- Spring Data JPA
+- Spring Web
 
 ## Credits
 
 **Author:** Mo Balić - [mobalic](https://github.com/mobalic)
-
 This program is based on Code Sharing Platform project on JetBrains Academy
 
 ## License
