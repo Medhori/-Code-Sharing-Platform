@@ -16,6 +16,7 @@ This program requires at least Java 11 to compile and run properly.
 ## Credits
 
 **Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+
 This program is based on Code Sharing Platform project on JetBrains Academy
 
 ## License
